@@ -1,3 +1,3 @@
 # Welcome to my ENSE 374 Repository
 ***Testing Random Markdowns***
-~~Yet Another Markdown Test~~
+1. ~~Yet Another Markdown Test~~
