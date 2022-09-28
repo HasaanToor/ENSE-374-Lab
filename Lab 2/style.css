@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    font-family: 'Montserrat', sans-serif;
+}
+
+div {
+    background-color: plum;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+}
+
+.narrow {
+    width: 350px;
+}
+
+.wide {
+    width: 500px;
+}
+
+.blueunderline {
+    text-decoration: underline;
+    color: blue;
+}
